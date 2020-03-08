@@ -7,12 +7,12 @@ that I could find on NUMPY module at one place.
 
 ## FUNCTIONS EXPLAINED
 
-> argpartition
-> allclose
-> clip
-> extract
-> where
-> percentile
-> argmin, argmax, argsort
-> intersect1d
+* argpartition
+* allclose
+* clip
+* extract
+* where
+* percentile
+* argmin, argmax, argsort
+* intersect1d
 
