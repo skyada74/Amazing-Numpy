@@ -16,3 +16,8 @@ that I could find on NUMPY module at one place.
 * argmin, argmax, argsort
 * intersect1d
 
+## REFERENCES
+
+https://towardsdatascience.com/top-4-numpy-functions-you-dont-know-about-probably-28fcd5d7174f
+https://towardsdatascience.com/12-amazing-pandas-numpy-functions-22e5671a45b8
+
