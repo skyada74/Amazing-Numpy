@@ -15,6 +15,8 @@ that I could find on NUMPY module at one place.
 * percentile
 * argmin, argmax, argsort
 * intersect1d
+* hstack, vstack
+* linspace
 
 ## REFERENCES
 
