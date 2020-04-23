@@ -7,7 +7,7 @@ that I could find on NUMPY module at one place.
 
 **[Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Numpy/blob/master/Amazing%20Numpy.ipynb)**
 
-## FUNCTIONS EXPLAINED
+### FUNCTIONS EXPLAINED
 
 * argpartition
 * allclose
@@ -19,6 +19,10 @@ that I could find on NUMPY module at one place.
 * intersect1d
 * hstack, vstack
 * linspace
+
+### Implementing Logistic Regression 
+
+In this **[notebook](https://github.com/AD1985/Amazing-Numpy/blob/master/Implementing_LogistcRegression.ipynb)**, I have tried to implement logistic regression algorithm from scratch using only Numpy module to explain the most necessary and crucial steps of any machine learning algorithm.
 
 ## REFERENCES
 
